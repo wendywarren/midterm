@@ -49,7 +49,7 @@ h2 {
 
 .author,
 .date {
-  font-size: .85rem ;
+  font-size: .85rem;
   margin-bottom: 0;
 }
 
@@ -69,7 +69,7 @@ ul {
   padding-left: 0;
 }
 
-a{
+a {
   color: #1a1a1a;
   text-decoration: underline;
 }
