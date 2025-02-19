@@ -1,5 +1,5 @@
 body {
-  font-family: 'Vesper Libre' serif;
+  font-family: "Vesper Libre", serif;
   color: #1a1a1a;
   line-height: 1.5;
   margin: 0;
@@ -44,13 +44,17 @@ figcaption,
 .author,
 .date,
 h2 {
-  font-family: 'Open sans' serif;
+  font-family: "Open sans", serif;
 }
 
 .author,
 .date {
   font-size: .85rem;
   margin-bottom: 0;
+}
+
+.date {
+  margin-top: 0;
 }
 
 figure {
